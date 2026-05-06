@@ -12,12 +12,7 @@
 |---------------|-------|
 ![GitHub Streak](profile/streak.svg)
 
-### 🔝 Top Languages by Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAhmed10&layout=compact&theme=dark)
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Top Languages by Repo
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
