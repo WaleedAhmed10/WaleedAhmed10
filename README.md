@@ -10,7 +10,9 @@
 
 | Contributions | Stats |
 |---------------|-------|
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=WaleedAhmed10&theme=dark) | ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaleedAhmed10&show_icons=true&theme=dark) |
+![GitHub Streak](profile/streak.svg) 
+![Waleed's GitHub stats](profile/stats.svg)
+![Top Langs](profile/top-langs.svg)
 
 ### 🔝 Top Languages by Repo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAhmed10&layout=compact&theme=dark)
