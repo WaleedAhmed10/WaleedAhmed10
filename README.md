@@ -2,36 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/WaleedAhmed10?style=social)](https://github.com/WaleedAhmed10)
 
-🚀 **MERN Stack Developer** | 🎓 **Software Engineering Student** | 🧠 **AI Learner**
-
----
-
-## 📊 GitHub Dashboard
-
-| Contributions | Stats |
-|---------------|-------|
-![GitHub Streak](profile/streak.svg) 
-![Waleed's GitHub stats](profile/stats.svg)
-![Top Langs](profile/top-langs.svg)
-
-### 🔝 Top Languages by Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAhmed10&layout=compact&theme=dark)
-
----
-
-## 📌 Pinned Projects
-
-> *These are my final year and personal projects*
-
-[![MERN-Stack-Testing](https://github-readme-stats.vercel.app/api/pin/?username=WaleedAhmed10&repo=MERN-Stack-Testing&theme=dark)](https://github.comWaleedAhmed10/MERN-Stack-Testing)
-
-[![Wonderland-Toystore-Project](https://github-readme-stats.vercel.app/api/pin/?username=WaleedAhmed10&repo=Wonderland-Toystore-Project&theme=dark)](https://github.com/WaleedAhmed10/Wonderland-Toystore-Project)
-
-[![DBMS-Project](https://github-readme-stats.vercel.app/api/pin/?username=WaleedAhmed10&repo=DBMS-Project&theme=dark)](https://github.com/WaleedAhmed10/DBMS-Project)
-
-[![PacMan-All-Project](https://github-readme-stats.vercel.app/api/pin/?username=WaleedAhmed10&repo=PacMan-All-Project&theme=dark)](https://github.com/WaleedAhmed10/PacMan-All-Project)
-
-[![ECommerce-Website-MERN](https://github-readme-stats.vercel.app/api/pin/?username=WaleedAhmed10&repo=ECommerce-Website-MERN&theme=dark)](https://github.comWaleedAhmed10/ECommerce-Website-MERN)
+🚀 **MERN Stack Developer** | 🎓 **Computer Science Student**
 
 ---
 
@@ -46,15 +17,7 @@
 
 ---
 
-## 📈 Contribution Activity
-*Updated daily*
+## 📫 Connect with me
 
-![Waleed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WaleedAhmed10&theme=github-dark)
-
----
-
-## Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/waleed-ahmed-razzaqi-80486929a/)
-- ✉️ [Upwork]()
-- 📫 waleed85147@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- ✉️ waleed@example.com
