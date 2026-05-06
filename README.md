@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/WaleedAhmed10?style=social)](https://github.com/WaleedAhmed10)
 
-🚀 **MERN Stack Developer** | 🎓 **Software Engineering Student**
+🚀 **MERN Stack Developer** | 🎓 **Software Engineering Student** | 🧠 **AI Learner**
 
 ---
 
