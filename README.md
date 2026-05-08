@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/WaleedAhmed10?style=social)](https://github.com/WaleedAhmed10)
 
-🚀 **MERN Stack Developer** | 🎓 **Computer Science Student** | 🧠 **Problem Solver**
+🚀 **MERN Stack Developer** | 🎓 **Software Engineering Student** | 🧠 **AI/ML Learner**
 
 ---
 
@@ -32,6 +32,6 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/waleed-ahmed-razzaqi-80486929a/)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - ✉️ waleed@example.com
