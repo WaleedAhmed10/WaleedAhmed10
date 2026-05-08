@@ -33,5 +33,5 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/waleed-ahmed-razzaqi-80486929a/)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 🐦 [Upwork]()
 - ✉️ waleed@example.com
