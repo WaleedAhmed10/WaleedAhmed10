@@ -34,4 +34,4 @@
 
 - ✉️ [LinkedIn](https://www.linkedin.com/in/waleed-ahmed-razzaqi-80486929a/)
 - 💼 [Upwork]()
-- 📫 waleed@example.com
+- 📫 waleed85147@gmail.com
