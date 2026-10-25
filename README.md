@@ -130,11 +130,12 @@ const WaleedAhmedRazzaqi = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAhmed10&layout=compact&hide_border=true&bg_color=0A0A12&title_color=F5A524&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=WaleedAhmed10&theme=high-contrast&hide_border=true&bg_color=0A0A12&color=F5A524&line=6B6FF0&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
+### 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WaleedAhmed10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
+  <img width="95%" src="https://ghchart.rshah.org/6B6FF0/WaleedAhmed10" alt="Contribution Chart"/>
 </div>
 
 ---
