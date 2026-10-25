@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Enhanced Header with Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Waleed%20Ahmed%20Razzaqi&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Secure%20and%20Scalable%20Web%20Solutions&descAlignY=52&descSize=18"/>
 
-<!-- Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=MERN+Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Information+Security+Intern+%F0%9F%9B%A1%EF%B8%8F;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+New+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views and Socials in One Row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WaleedAhmed10&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/WaleedAhmed10?tab=followers">
@@ -123,7 +120,7 @@ const WaleedAhmedRazzaqi = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WaleedAhmed10&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedAhmed10&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+  <img width="49%" src="profile/streak.svg" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
