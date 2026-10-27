@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A12,55:6B6FF0,100:F5A524&height=300&section=header&text=Waleed%20Ahmed%20Razzaqi&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20products%20recruiters%20can%20click%2C%20test%2C%20and%20trust&descAlignY=52&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6B6FF0&center=true&vCenter=true&random=false&width=750&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+MERN%2FPERN+Developer+%E2%9A%A1;Realtime+Systems+%26+AI+Tools+%F0%9F%A4%96;BSSE+%40+Bahria+University+%F0%9F%8E%93;Information+Security+Intern+%F0%9F%9B%A1%EF%B8%8F;Open+to+Work+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6B6FF0&center=true&vCenter=true&random=false&width=750&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+MERN%2FSupabase+Developer+%E2%9A%A1;Realtime+Systems+%26+AI+Tools+%F0%9F%A4%96;BSSE+%40+Bahria+University+%F0%9F%8E%93;Information+Security+Intern+%F0%9F%9B%A1%EF%B8%8F;Open+to+Work+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <p align="center">
