@@ -165,7 +165,8 @@ const WaleedAhmedRazzaqi = {
 
 ```yaml
 📧 Email: waleed85147@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/waleed-ahmed-razzaqi-80486929a/
+🔗 LinkedIn: https://www.linkedin.com/in/waleed-ahmed-razzaqi-80486929a/
+💼 Contra: https://contra.com/waleed_ahmed_9inoycqf/work?r=waleed_ahmed_9inoycqf
 🌐 Portfolio: waleed-portfolio-silk.vercel.app
 📍 Location: Islamabad, Pakistan
 💡 Status: Open to Work
